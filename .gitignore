@@ -1,0 +1,15 @@
+﻿# Plik .gitignore dla Android Studio
+
+# Katalogi kompilacji
+/build/
+/.gradle/
+/.idea/
+
+# Pliki konfiguracyjne
+/local.properties
+/captures/
+output.json
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
